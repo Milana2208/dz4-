@@ -1,0 +1,12 @@
+.delete{
+    width: 70px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: mediumpurple;
+    margin-left: 20px;
+    font-size: 17px;
+    color: white;
+    border: 3px purple solid;
+
+
+}

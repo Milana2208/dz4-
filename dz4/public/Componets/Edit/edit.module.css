@@ -1,0 +1,8 @@
+.edit {
+    width: 90px;
+    height: 30px;
+    background-color: lightgray;
+    border: 2px dimgrey solid;
+    border-radius: 5px;
+    margin: auto;
+}
